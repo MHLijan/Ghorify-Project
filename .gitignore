@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+/staticfiles/
+.vscode/
+.idea/
+*.log
+Ghorify_Django_Brief.pdf
+
+
+media/verification/
+
+db.sqlite3
+Ghorify_Project/
